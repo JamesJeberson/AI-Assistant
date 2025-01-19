@@ -42,7 +42,6 @@ The application allows users to:
 ├── templates
 │   └── index.html  # Frontend HTML file
 ├── static
-│   ├── styles.css  # Optional external CSS (if used)
 │   └── demo.gif    # Demo GIF showcasing the application
 └── README.md       # Documentation
 ```
@@ -80,9 +79,3 @@ The application allows users to:
 - IBM Watsonx API credentials
 - LangChain
 - Pydantic
-
-## Contributing
-Feel free to fork this repository, create a branch, and submit a pull request with your improvements.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
