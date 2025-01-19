@@ -9,7 +9,7 @@ The application allows users to:
 - Receive real-time AI-generated responses in a conversational format.
 
 ## Demo
-![Demo GIF](demo.gif)
+![Demo GIF](static/demo.gif)
 
 ## Features
 - **Multi-model Support**: Integrates three powerful AI models: Llama3, Granite, and Mixtral.
