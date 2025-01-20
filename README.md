@@ -1,4 +1,4 @@
-# Interactive AI Assistant
+# AI Assistant with Dynamic Personalities
 
 ## Overview
 This project implements an AI-powered chatbot application leveraging IBM WatsonxGPT models. The application supports different tones and models, offering dynamic AI responses. Users interact with the chatbot through a web interface built using HTML, CSS, and JavaScript. The backend processes requests with Python and Flask, integrating IBM Watsonx APIs to generate model-specific responses. 
