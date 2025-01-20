@@ -49,7 +49,7 @@ The application allows users to:
 ## How to Run the Project
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your_username/ai-assistant-watsonx](https://github.com/JamesJeberson/AI-Assistant-with-Dynamic-Personalities
+    git clone https://github.com/JamesJeberson/AI-Assistant-with-Dynamic-Personalities
     cd AI-Assistant-with-Dynamic-Personalities
     ```
 
